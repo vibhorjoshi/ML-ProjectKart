@@ -2,6 +2,12 @@
 
 List of Open Source Events in which this project participated.
 
+- CodePeak2025
+
+CODE PEAK is a month-long program that helps students understand the paradigm of Open Source contribution and gives them real-world software development experience. The event targets first-timers who wish to participate in Free and Open Source(FOSS) Contributions and the experienced developers who want to show their skills by contributing to real-world projects.
+
+<a href="https://codepeak.technology/"><img src="https://codepeak.technology/" width=150px height=150px /></a>
+
 - CodeSapiens Summer Of Code 2024
 
 CSSOC is a beginner friendly summer of code event where a senior helps junior but just done at a different larger scale that is loved by students and wanted by companies. It's student-run community of 1100+ students in and around Tamil Nadu from various colleges that focuses on technical events, sessions with industry experts and hackathons along with bringing practical exposure from working on real projects.
