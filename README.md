@@ -36,11 +36,11 @@ The main aim is to provide an efficient and beginner-friendly projects that woul
 
 Anyone related to technology who are looking to contribute to open-source, are all invited to hop in. This place has task for everyone.
 
-| **Machine Learning** | **Deep Learning** | **Natural Language Processing** | **Computer Vision** |
+| **Machine Learning** | **Deep Learning** | **Natural Language Processing** | **Computer Vision** | **Generative AI**
 
 **Data Analysts** - Frame the problem. Get, explore and prepare the data 
 
-**Machine Learning, Deep Learning, Computer Vision, Natural Language Processing Enthusiasts** - Try different algorithms, build model, optimize the model. 
+**Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Generative AI Enthusiasts** - Try different algorithms, build model, optimize the model. 
 
 <!--
 **Front End Designers** – Design or code the webpage designed by designers 
