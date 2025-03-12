@@ -1,6 +1,6 @@
 ## CodePeak 2025 Contributors
 
-1. T Aditya Ananda Sai | Mikeyzgoat | tadisai091@gmail.com |  <br>
+1. T Aditya Ananda Sai | Mikeyzgoat | tadisai091@gmail.com | .ryeliveson <br>
 
 Completed PR's () - Supply Chain Demand Forecasting
 
@@ -16,4 +16,4 @@ LinkedIn Profile: https://www.linkedin.com/in/dhairya-pandya
 
 Completed PR's () - Airbus Ship Prediction
 
-LinkedIn Profile: 
+LinkedIn Profile: https://www.linkedin.com/in/pragya-mahajan-0a973827a
