@@ -2,15 +2,15 @@
 
 1. T Aditya Ananda Sai | Mikeyzgoat | tadisai091@gmail.com | .ryeliveson <br>
 
-Completed PR's (2) - Supply Chain Demand Forecasting | Barcode and QR Code Recognition
+Completed PR's (2) - Supply Chain Demand Forecasting | Barcode and QR Code Recognition <br>
 
-LinkedIn Profile: https://www.linkedin.com/in/aditya0906
+LinkedIn Profile: https://www.linkedin.com/in/aditya0906 <br>
 
-2. Harshit Seth | HarshitSeth77 | sethh7810@gmail.com | xpop6603
+2. Harshit Seth | HarshitSeth77 | sethh7810@gmail.com | xpop6603 <br>
 
-Completed PR's (1) - Medical Insurance Cost Prediction
+Completed PR's (1) - Medical Insurance Cost Prediction <br>
 
-LinkedIn Profile: https://www.linkedin.com/in/harshitseth77
+LinkedIn Profile: https://www.linkedin.com/in/harshitseth77 <br>
 
 
 
