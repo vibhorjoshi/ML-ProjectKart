@@ -6,7 +6,7 @@ List of Open Source Events in which this project participated.
 
 CODE PEAK is a month-long program that helps students understand the paradigm of Open Source contribution and gives them real-world software development experience. The event targets first-timers who wish to participate in Free and Open Source(FOSS) Contributions and the experienced developers who want to show their skills by contributing to real-world projects.
 
-<a href="https://codepeak.technology/"><img src="https://codepeak.technology/" width=150px height=150px /></a>
+<a href="https://codepeak.technology/"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Open%20Source%20Programs/CodePeak%202025/CodePeak%202025.png" width=150px height=150px /></a>
 
 - CodeSapiens Summer Of Code 2024
 
